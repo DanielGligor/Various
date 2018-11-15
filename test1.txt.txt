@@ -1,1 +1,3 @@
 My first work with git
+Text modificat de mine
+Incercare esuata
